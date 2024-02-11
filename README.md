@@ -1,6 +1,6 @@
 # LinkOP
 
-This repository contains code for a simple web page showcasing my social media links. It utilizes React for the front-end and includes animations and styling using libraries like `react-icons`, `react-animated-cursor`, and `animate.css`.
+This repository contains code for a simple web page showcasing my social media links. It utilizes React for the front end and includes animations and styling using libraries like `react-icons`, `react-animated-cursor`, and `animate.css`.
 
 
 ## Features
@@ -36,7 +36,7 @@ This repository contains code for a simple web page showcasing my social media l
    npm start
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+5. Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 ## Usage
 
